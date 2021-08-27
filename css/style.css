@@ -1,0 +1,35 @@
+.quem-somos{
+    background-color: #FC6B44
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+    color: white;
+    
+}
+
+#parceiros{
+    background-color: #D43BD9;
+}
+.par{
+    margin-bottom: 50px;
+}
+#servicos{
+    background-color: #3BCED9;
+}
+
+.img-service{
+    margin-top: 40px;
+}
+
+.gleydson{
+    background-color: #09FFF3;
+    width: 100%;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    padding:0;
+    margin: 0;
+}
